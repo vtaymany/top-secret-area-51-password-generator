@@ -9,8 +9,12 @@
 ### JS
 
 - This update adds functionality to the application
-  - What makes this application unique is the way it selects a random value for the password
-    - Every value chosen to be in the password has an equal probability of being either a lowercase character, an uppercase character, a number, or a special character - no matter how many possible values there are for each character type.
+  - What makes this application unique is the way a random values are selected
+    - Every character chosen for the password has both a 'character type' and a 'value'
+      - This password generator gives an equal probability for the character type depending on the users specifications
+        - i.e. There is a 25%/25%/25%/25% if the user wants lowercase/uppercase/number/specialCharacter, There is a 33.33%/33.33%/33.33% if the user wants        lowercase/uppercase/number/,...
+      - This password generator gives an equal probability for the character value depending on the character type
+        - i.e. When selecting a lowercase letter there is an equal chance for any value between a-z to be selected,...
 
 ## Installation
 
