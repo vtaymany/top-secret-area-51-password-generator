@@ -21,8 +21,8 @@
 
 ## Screenshots
 
-![Diagram showing how values are chosen](.Assets/screenshots/password-generator-chart.png 'Performance improvement results')
-![Screenshot showing how a random value is selected from an array consistenting of a random value of every possible character type](.Assets/screenshots/password-generator-screenshot.png 'Original performance')
+![Diagram showing how values are chosen](Assets/screenshots/password-generator-chart.png 'Performance improvement results')
+![Screenshot showing how a random value is selected from an array consistenting of a random value of every possible character type](Assets/screenshots/password-generator-screenshot.png 'Original performance')
 
 ## Credits
 
