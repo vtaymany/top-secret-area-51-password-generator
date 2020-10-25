@@ -24,6 +24,7 @@
 
 - It is advised to collect user inputs from HTML forms rather than alert prompts.
   - Many form elements such as checkboxes have some degree of validation and logic built in which would help clean up the code.
+- Increasing 'randomness' uses great amounts of resources - it is advised to refactor for performance if possible
 
 ## Screenshots
 
