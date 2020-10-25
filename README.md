@@ -9,10 +9,12 @@
 ### JS
 
 - This update adds functionality to the application
+  - What makes this application unique is the way it selects a random value for the password
+    - Every value chosen to be in the password has an equal probability of being either a lowercase character, an uppercase character, a number, or a special character - no matter how many possible values there are for each character type.
 
 ## Installation
 
-- No installation is required. The webpage may be viewed [here]()
+- No installation is required. The webpage may be viewed [here](https://vtaymany.github.io/top-secret-area-51-password-generator/)
 
 ## Roadmap
 
