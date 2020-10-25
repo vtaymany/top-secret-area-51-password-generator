@@ -12,7 +12,7 @@
 
 ## Installation
 
-- No installation is required. The webpage may be viewed [here](https://vtaymany.github.io/Horiseon-refactor/)
+- No installation is required. The webpage may be viewed [here]()
 
 ## Roadmap
 
@@ -20,6 +20,9 @@
   - Many form elements such as checkboxes have some degree of validation and logic built in which would help clean up the code.
 
 ## Screenshots
+
+![Diagram showing how values are chosen](.Assets/screenshots/password-generator-chart.png 'Performance improvement results')
+![Screenshot showing how a random value is selected from an array consistenting of a random value of every possible character type](.Assets/screenshots/password-generator-screenshot.png 'Original performance')
 
 ## Credits
 
